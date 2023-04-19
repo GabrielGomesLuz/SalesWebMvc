@@ -39,3 +39,4 @@ C:\Users\bielg\OneDrive\Documentos\ProjetosC#\SalesWebMvc\SalesWebMvc\obj\Debug\
 C:\Users\bielg\OneDrive\Documentos\ProjetosC#\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\Razor\Views\Sellers\Create.g.cshtml.cs
 C:\Users\bielg\OneDrive\Documentos\ProjetosC#\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\Razor\Views\Sellers\Delete.g.cshtml.cs
 C:\Users\bielg\OneDrive\Documentos\ProjetosC#\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\Razor\Views\Sellers\Details.g.cshtml.cs
+C:\Users\bielg\OneDrive\Documentos\ProjetosC#\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\Razor\Views\Sellers\Edit.g.cshtml.cs
